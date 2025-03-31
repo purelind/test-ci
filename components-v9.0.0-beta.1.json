@@ -28,7 +28,7 @@
     {
       "name": "ticdc",
       "version": "v9.0.0-beta.1",
-      "commit_hash": "b67943012af29b90002b0eb4bff28bf820aa3c36"
+      "commit_hash": "66114988c352cef0523ff08a3aef39fec07c495b"
     },
     {
       "name": "dm",
@@ -90,7 +90,7 @@
     {
       "name": "ticdc",
       "version": "v9.0.0-beta.1",
-      "commit_hash": "b67943012af29b90002b0eb4bff28bf820aa3c36"
+      "commit_hash": "66114988c352cef0523ff08a3aef39fec07c495b"
     },
     {
       "name": "dm",
